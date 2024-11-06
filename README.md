@@ -53,9 +53,3 @@
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/314494866249967871/86B3A8EF7717DD1919760D954C860CCE1BADC757/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itstiagoor/itstiagoor/output/snake.svg" alt="Snake animation" />
-
-###
