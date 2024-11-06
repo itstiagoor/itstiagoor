@@ -4,8 +4,7 @@
 
 ###
 
-<h2 align="left">Oii, Eu sou Thyago atualmente estou trabalhando fazendo liv
-  es é estou solteiro 😈. Sou jogador Profissional de Fortnite 🎮. </h2>
+<h2 align="left">Oii, Eu sou Thyago atualmente estou trabalhando fazendo lives é estou solteiro 😈. Sou jogador Profissional de Fortnite 🎮. </h2>
 
 ###
 
